@@ -228,46 +228,15 @@ void executaSequencia(){
     cout << endl << " 0 - Nao  |  1 - Sim" << endl;
     cin >> geraArqFreq;
 
-    /// CALCULA COM 1K
-    Cronometro cro;
-    cro.IniciaCronometro();
-    executaSequenciaAux_1(1000, geraArqFreq);
-    cro.FinalizaCronometro();
-    cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
-
-    /// CALCULA COM 5K
-    cro.IniciaCronometro();
-    executaSequenciaAux_1(5000, geraArqFreq);
-    cro.FinalizaCronometro();
-    cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
-
     /// CALCULA COM 10K
     cro.IniciaCronometro();
     executaSequenciaAux_1(10000, geraArqFreq);
     cro.FinalizaCronometro();
     cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
 
-    /// CALCULA COM 50K
-    cro.IniciaCronometro();
-    executaSequenciaAux_1(50000, geraArqFreq);
-    cro.FinalizaCronometro();
-    cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
-
     /// CALCULA COM 100K
     cro.IniciaCronometro();
     executaSequenciaAux_1(100000, geraArqFreq);
-    cro.FinalizaCronometro();
-    cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
-
-    /// CALCULA COM 250K
-    cro.IniciaCronometro();
-    executaSequenciaAux_1(250000, geraArqFreq);
-    cro.FinalizaCronometro();
-    cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
-
-    ///CALCULA COM 500K
-    cro.IniciaCronometro();
-    executaSequenciaAux_1(500000, geraArqFreq);
     cro.FinalizaCronometro();
     cout << "Tempo gasto: " << cro.getTempoGasto() << "s"  << endl;
 
