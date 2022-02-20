@@ -1,0 +1,916 @@
+# depslib dependency file v1.0
+1641315587 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\main.cpp
+	<iostream>
+	"BIN.h"
+	"TiktokReviews.h"
+
+1641315787 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641251868 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\src\csv.cpp
+	"CSV.h"
+
+1641251868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\include\csv.h
+
+1641308113 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\src\bin.cpp
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\main\include\tiktokreviews.h
+	"iostream"
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\tiktokreviews.h
+	"iostream"
+
+1641526057 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\main.cpp
+	<iostream>
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+
+1641515627 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\ordenacao.h
+	<iostream>
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\combsort.cpp
+	"CombSort.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641526184 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641526024 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+
+1641526024 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+
+1641526184 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\combsort.cpp
+	"CombSort.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\tiktokreviews.h
+	"iostream"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\ordenacao.h
+	<iostream>
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1641611078 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\src\arvoreb.cpp
+	"ArvoreB.h"
+	"cstring"
+	"iostream"
+
+1641610839 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\arvoreb.h
+	"string"
+	<iostream>
+
+1641612353 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\main.cpp
+	<iostream>
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+	"ArvoreB.h"
+	"cstring"
+
+1641515627 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvvp int\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641754457 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\arvoreb.cpp
+	"ArvoreB.h"
+	"cstring"
+	"iostream"
+
+1641754434 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\arvoreb.h
+	"string"
+	<iostream>
+
+1641754672 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1641754566 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\combsort.cpp
+	"CombSort.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\tiktokreviews.h
+	"iostream"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\ordenacao.h
+	<iostream>
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1641754776 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\main.cpp
+	<iostream>
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreB.h"
+	"ArvoreVP.h"
+	"cstring"
+
+1641665714 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641749809 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\arvorebin.cpp
+	"ArvoreBin.h"
+	"iostream"
+
+1641749809 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\arvorebin.h
+
+1641751054 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\arvorebinaria.cpp
+	"ArvoreBinaria.h"
+
+1641751799 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\arvorebinaria.h
+	<iostream>
+	<queue>
+
+1641752469 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\include\arvoreb2.h
+	"iostream"
+
+1641752728 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 2 refatorado arvb feita\src\arvoreb2.cpp
+	"ArvoreB2.h"
+	"iostream"
+
+1641948979 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\main.cpp
+	<iostream>
+	"cstring"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreB.h"
+	"ArvoreVP.h"
+
+1641665714 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\tiktokreviews.h
+	"iostream"
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641948965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\arvoreb.h
+	"iostream"
+	"NoArvB.h"
+
+1641834954 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641949679 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\arvoreb.cpp
+	"ArvoreB.h"
+
+1641930799 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\combsort.cpp
+	"CombSort.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\ordenacao.h
+	<iostream>
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1641938591 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\btreenode.cpp
+	"BTreeNode.h"
+
+1641948521 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\btreenode.h
+	<iostream>
+	<vector>
+
+1641948340 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\btree.cpp
+
+1641948341 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\btree.h
+
+1641950072 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\src\noarvb.cpp
+	"NoArvB.h"
+
+1641949768 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1\include\noarvb.h
+	<iostream>
+	<vector>
+
+1641950087 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\main.cpp
+	<iostream>
+	"cstring"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreB.h"
+	"ArvoreVP.h"
+	"vector"
+
+1641665714 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\tiktokreviews.h
+	"iostream"
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641948965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\arvoreb.h
+	"iostream"
+	"NoArvB.h"
+
+1641949768 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\noarvb.h
+	<iostream>
+	<vector>
+
+1641834954 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641949679 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\arvoreb.cpp
+	"ArvoreB.h"
+
+1641930799 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\combsort.cpp
+	"CombSort.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\include\ordenacao.h
+	<iostream>
+
+1641950072 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\noarvb.cpp
+	"NoArvB.h"
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641308772 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1642367806 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\main.cpp
+	<iostream>
+	"Cronometro.h"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+	"ArvoreB.h"
+
+1642352860 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\tiktokreviews.h
+	"iostream"
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1642362913 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\arvoreb.h
+	<iostream>
+	<string>
+	"TiktokReviews.h"
+	"NoArvoreB.h"
+
+1642097791 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\noarvb.h
+	<iostream>
+	<vector>
+
+1642366965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\arvorevp.h
+	<bits/stdc++.h>
+
+1642362930 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\arvoreb.cpp
+	"ArvoreB.h"
+	"time.h"
+	"iostream"
+
+1642366975 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\combsort.cpp
+	"CombSort.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\ordenacao.h
+	<iostream>
+
+1642097721 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\noarvb.cpp
+	"NoArvB.h"
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1642352004 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1642299002 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\infono.cpp
+	"InfoNo.h"
+
+1642299003 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\infono.h
+	<iostream>
+	<string>
+
+1642357734 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\noarvoreb.cpp
+	"NoArvoreB.h"
+
+1642352788 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\noarvoreb.h
+	<iostream>
+	<string>
+	"InfoNo.h"
+
+1642347799 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\src\cronometro.cpp
+	"Cronometro.h"
+
+1642347515 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - arvb - int - copia\include\cronometro.h
+	"time.h"
+
+1642370742 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\main.cpp
+	<iostream>
+	"Cronometro.h"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+	"ArvoreB.h"
+
+1642347515 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\cronometro.h
+	"time.h"
+
+1642352860 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\tiktokreviews.h
+	"iostream"
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1642366965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\arvorevp.h
+	<bits/stdc++.h>
+
+1642362913 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\arvoreb.h
+	<iostream>
+	<string>
+	"TiktokReviews.h"
+	"NoArvoreB.h"
+
+1642352788 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\noarvoreb.h
+	<iostream>
+	<string>
+	"InfoNo.h"
+
+1642299003 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\infono.h
+	<iostream>
+	<string>
+
+1642362930 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\arvoreb.cpp
+	"ArvoreB.h"
+	"time.h"
+	"iostream"
+
+1642366975 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\combsort.cpp
+	"CombSort.h"
+
+1642347799 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\cronometro.cpp
+	"Cronometro.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\include\ordenacao.h
+	<iostream>
+
+1642299002 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\infono.cpp
+	"InfoNo.h"
+
+1642357734 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\noarvoreb.cpp
+	"NoArvoreB.h"
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1642352004 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 3\trabalho parte 3 refatorado 1 - tudo certo\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1642362930 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\arvoreb.cpp
+	"ArvoreB.h"
+	"time.h"
+	"iostream"
+
+1642362913 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\arvoreb.h
+	<iostream>
+	<string>
+	"TiktokReviews.h"
+	"NoArvoreB.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\tiktokreviews.h
+	"iostream"
+
+1642352788 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\noarvoreb.h
+	<iostream>
+	<string>
+	"InfoNo.h"
+
+1642299003 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\infono.h
+	<iostream>
+	<string>
+
+1642366975 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1642366965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\combsort.cpp
+	"CombSort.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1642347799 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\cronometro.cpp
+	"Cronometro.h"
+
+1642347515 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\cronometro.h
+	"time.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\ordenacao.h
+	<iostream>
+
+1642299002 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\infono.cpp
+	"InfoNo.h"
+
+1642357734 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\noarvoreb.cpp
+	"NoArvoreB.h"
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1642352004 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1644152612 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\nohuff.cpp
+	"NoHuff.h"
+
+1644152606 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\nohuff.h
+
+1644154132 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\reviewscomp.cpp
+
+1645106364 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\main.cpp
+	<iostream>
+	"Cronometro.h"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+	"ArvoreB.h"
+	"Huffman.h"
+
+1644154073 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1644236903 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\src\huffman.cpp
+
+1645047791 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - huffman_1\include\huffman.h
+	<bits/stdc++.h>
+
+1642362930 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\arvoreb.cpp
+	"ArvoreB.h"
+	"time.h"
+	"iostream"
+
+1642362913 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\arvoreb.h
+	<iostream>
+	<string>
+	"TiktokReviews.h"
+	"NoArvoreB.h"
+
+1641309133 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\tiktokreviews.h
+	"iostream"
+
+1642352788 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\noarvoreb.h
+	<iostream>
+	<string>
+	"InfoNo.h"
+
+1642299003 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\infono.h
+	<iostream>
+	<string>
+
+1642366975 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\arvorevp.cpp
+	"ArvoreVP.h"
+	"iostream"
+	"cstring"
+	<time.h>
+
+1642366965 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\arvorevp.h
+	<bits/stdc++.h>
+
+1641318842 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\combsort.cpp
+	"CombSort.h"
+
+1641318868 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\combsort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1645362402 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\cronometro.cpp
+	"Cronometro.h"
+
+1642347515 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\cronometro.h
+	"time.h"
+
+1641321008 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\hash.cpp
+	"Hash.h"
+	<string.h>
+	"TiktokReviews.h"
+	<time.h>
+	<iostream>
+
+1641320693 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\hash.h
+	<iostream>
+	"TiktokReviews.h"
+
+1641317908 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\heapsort.cpp
+	"HeapSort.h"
+	"TiktokReviews.h"
+	"Ordenacao.h"
+	<time.h>
+	<iostream>
+
+1641317874 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\heapsort.h
+	"TiktokReviews.h"
+	<iostream>
+
+1641317128 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\ordenacao.h
+	<iostream>
+
+1644236903 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\huffman.cpp
+
+1642299002 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\infono.cpp
+	"InfoNo.h"
+
+1642357734 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\noarvoreb.cpp
+	"NoArvoreB.h"
+
+1641318556 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+	"TiktokReviews.h"
+
+1641318562 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\quicksort.h
+	<iostream>
+	"TiktokReviews.h"
+
+1642352004 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\src\tiktokreviews.cpp
+	"TiktokReviews.h"
+	"iostream"
+
+1645397073 source:h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\main.cpp
+	<iostream>
+	"Cronometro.h"
+	"BIN.h"
+	"TiktokReviews.h"
+	"HeapSort.h"
+	"QuickSort.h"
+	"CombSort.h"
+	"Hash.h"
+	"ArvoreVP.h"
+	"ArvoreB.h"
+	"Huffman.h"
+
+1644154073 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\bin.h
+	<iostream>
+	<time.h>
+	"TiktokReviews.h"
+
+1645399427 h:\ufjf\2021.3\ed2\trabalhos\trabalho 4\trabalho parte 4 - finalizado geeks_for_geeks\include\huffman.h
+

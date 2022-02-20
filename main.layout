@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\CombSort.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="113" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\BIN.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="66" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="114" />
+		</Folding>
+	</File>
+	<File name="include\ArvoreB.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="313" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="include\Huffman.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2210" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\NoArvoreB.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="103" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Cronometro.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="205" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\NoArvoreB.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="364" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="83" />
+			<Collapse line="129" />
+			<Collapse line="178" />
+			<Collapse line="200" />
+			<Collapse line="205" />
+			<Collapse line="210" />
+			<Collapse line="215" />
+			<Collapse line="220" />
+			<Collapse line="225" />
+		</Folding>
+	</File>
+	<File name="include\Hash.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="216" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8875" topLine="96" />
+		</Cursor>
+		<Folding>
+			<Collapse line="34" />
+			<Collapse line="81" />
+			<Collapse line="123" />
+			<Collapse line="144" />
+			<Collapse line="179" />
+		</Folding>
+	</File>
+	<File name="src\TiktokReviews.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="856" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="15" />
+			<Collapse line="29" />
+			<Collapse line="48" />
+		</Folding>
+	</File>
+	<File name="src\Cronometro.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="183" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\ArvoreVP.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1538" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="src\Hash.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="342" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="include\QuickSort.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="563" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\ArvoreB.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1890" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="src\ArvoreVP.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1644" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="20" />
+			<Collapse line="27" />
+			<Collapse line="95" />
+			<Collapse line="100" />
+			<Collapse line="124" />
+			<Collapse line="129" />
+			<Collapse line="138" />
+			<Collapse line="142" />
+			<Collapse line="153" />
+			<Collapse line="208" />
+			<Collapse line="228" />
+			<Collapse line="248" />
+		</Folding>
+	</File>
+	<File name="src\HeapSort.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="642" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\HeapSort.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="244" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\TiktokReviews.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="821" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
