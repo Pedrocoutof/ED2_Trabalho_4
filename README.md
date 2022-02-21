@@ -34,8 +34,7 @@
  <h2>2 - Descomprimir</h2>
  
 **Verificará se possui arquivo <reviewsComp.bin> se possuir verificará ainda se a arvore está vazia (caso o programa tenha sido fechado e nao tenha executado a compactação).
-após isso, será gerado um arquivo (reviewsOrig.txt) com todos os reviews_texts descompactados.
-** <br>
+após isso, será gerado um arquivo (reviewsOrig.txt) com todos os reviews_texts descompactados.** <br>
      
  <hr>
  
